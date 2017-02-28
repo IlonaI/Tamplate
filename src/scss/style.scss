@@ -1,0 +1,43 @@
+// Abstracts
+
+@import 'abstracts/_mixins.scss';
+@import 'abstracts/_functions.scss';
+@import 'abstracts/_variables.scss';
+@import 'abstracts/_placeholders.scss';
+
+
+// Vendors
+@import 'vendors/_normalize.scss';
+@import 'vendors/_bootstrap.scss';
+
+
+// Base
+
+@import 'base/_base.scss';
+@import 'base/_typography.scss';
+@import 'base/_animations.scss';
+
+// Layout
+
+@import 'layout/_navigation.scss';
+@import 'layout/_header.scss';
+@import 'layout/_grid.scss';
+@import 'layout/_sidebar.scss';
+@import 'layout/_footer.scss';
+@import 'layout/_forms.scss';
+
+// components
+
+@import 'components/_buttons.scss';
+@import 'components/_corousel.scss';
+@import 'components/_cover.scss';
+@import 'components/_dropdown.scss';
+
+// pages
+
+@import 'pages/_home.scss';
+@import 'pages/_contact.scss';
+
+
+
+
